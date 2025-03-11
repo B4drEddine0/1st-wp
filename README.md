@@ -16,9 +16,9 @@ This WordPress website is designed for a restaurant, featuring an online reserva
 ## 🔌 Key Plugins
 
 - **Elementor Pro**: Used for advanced page building and custom designs.
-- **[Reservation Plugin Name]**: Handles the booking system for table reservations.
-- **[Menu Plugin Name]**: Displays the restaurant's menu items.
-- **[Gallery Plugin Name]**: Showcases images of the restaurant and dishes.
+- **[Reservation Plugin]**: Handles the booking system for table reservations.
+- **[Menu Plugin]**: Displays the restaurant's menu items.
+- **[Gallery Plugin]**: Showcases images of the restaurant and dishes.
 - **[Contact Form Plugin]**: Manages customer inquiries and feedback.
 
 ## 🎨 Features
