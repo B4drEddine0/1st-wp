@@ -67,10 +67,10 @@ As this is a WordPress site, it's hosted online. However, for local development 
 
 For any issues or inquiries regarding this website, please contact:
 
-[BadrEddine MassaAlKhayr]
-Email: [badrdine03@gmail.com]
-GitHub: [B4drEddine0]
+BadrEddine MassaAlKhayr
+Email: badrdine03@gmail.com
+GitHub: B4drEddine0
 
 ---
 
-© [2022] [UR-SNACK]. All Rights Reserved.
+©2022 UR-SNACK. All Rights Reserved.
